@@ -1,0 +1,6 @@
+[submodule "base/vim-polyglot"]
+	path = base/vim-polyglot
+	url = git@github.com:sheerun/vim-polyglot.git
+[submodule "base/tern_for_vim"]
+	path = base/tern_for_vim
+	url = git@github.com:marijnh/tern_for_vim.git

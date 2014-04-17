@@ -225,3 +225,9 @@ let g:UltiSnipsSnippetDirectories = ["UltiSnips", "ultisnips-snippets"]
 " Use airline!!!
 let g:airline_powerline_fonts=1
 let g:airline_theme="molokai"
+
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set colorcolumn=120
